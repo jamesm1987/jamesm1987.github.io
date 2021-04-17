@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://portfolio/./src/pages/index.js"],"names":["Home"],"mappings":"oKAEe,SAASA,IACpB,OAAO","file":"component---src-pages-index-js-cd222b59de3e5c39a919.js","sourcesContent":["import React from \"react\"\n\nexport default function Home () {\n    return <h1>Hello World</h1>\n}"],"sourceRoot":""}
